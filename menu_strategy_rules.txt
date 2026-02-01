@@ -1,0 +1,85 @@
+MENUPILOT - MENU ENGINEERING RULES (FOR OUTPUT A)
+
+DATA SOURCE
+Use the uploaded MenuTbl dataset (menu performance table).
+
+MENU TBL COLUMNS AVAILABLE
+item_name
+category
+menu_price
+ingredient_cost
+units_sold
+month
+year
+prep_time_minutes
+allergens
+dietary_tags
+day_of_week_avg
+time_of_day_peak
+weather_impact
+promo_active
+supplier
+customer_rating
+returns_complaints
+food_cost_pct
+margin
+cost_warning
+slow_prep_flag
+low_rating_flag
+complaints_flag
+
+DEFINITIONS
+1) Food Cost Percentage (food_cost_pct)
+- If food_cost_pct column exists, use it.
+- If missing, compute: ingredient_cost / menu_price
+
+2) Contribution Margin (margin)
+- If margin column exists, use it.
+- If missing, compute: menu_price - ingredient_cost
+
+THRESHOLDS (computed from the dataset)
+3) avg_units_sold = average(units_sold across all items)
+4) avg_margin = average(margin across all items)
+
+POPULARITY RULE
+- Popular if units_sold > avg_units_sold
+- Unpopular otherwise
+
+PROFIT RULE (use margin as the profit proxy)
+- High profit if margin > avg_margin
+- Low profit otherwise
+
+MENU QUADRANTS
+- STAR: Popular + High profit
+- PLOWHORSE: Popular + Low profit
+- PUZZLE: Unpopular + High profit
+- DOG: Unpopular + Low profit
+
+FLAGS (use existing columns if present; otherwise compute)
+- cost_warning: "Over 35%" if food_cost_pct > 0.35 else "OK"
+- slow_prep_flag: "Slow prep" if prep_time_minutes > 18 else "OK"
+- low_rating_flag: "Low rating" if customer_rating < 4.0 else "OK"
+- complaints_flag: "High complaints" if returns_complaints >= 3 else "OK"
+
+OUTPUT A REQUIREMENTS
+Return a table with these columns (in this exact order):
+item_name, category, menu_price, ingredient_cost, units_sold,
+food_cost_pct, margin,
+popularity, profit, menu_quadrant,
+cost_warning, slow_prep_flag, low_rating_flag, complaints_flag
+
+FORMATTING
+- Show food_cost_pct as a percentage with 1 decimal (example: 27.3%).
+- Show margin with 2 decimals.
+- Do not split allergens or dietary_tags into multiple columns; treat them as text.
+
+ERROR HANDLING
+- If any of these required columns are missing: item_name, category, menu_price, ingredient_cost, units_sold
+  then list the missing columns and stop.
+- If numeric columns contain non-numeric values, identify the column(s) and stop.
+
+SUMMARY INSIGHTS (after the table)
+Provide 3 bullets:
+1) Count of items in each quadrant (Star, Plowhorse, Puzzle, Dog)
+2) Top 3 items with cost_warning = "Over 35%" (highest food_cost_pct first)
+3) Top 3 items by units_sold

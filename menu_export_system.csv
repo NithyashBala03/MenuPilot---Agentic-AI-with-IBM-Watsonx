@@ -1,0 +1,335 @@
+﻿item_name , units_sold ,menu_price,ingredient_cost, margin ,popularity,profit, menu_quadrant
+Classic Cheeseburger,450.00,12.99,3.5,9.49,Popular,High profit,Star
+Classic Cheeseburger,420.00,12.99,3.5,9.49,Popular,High profit,Star
+Classic Cheeseburger,480.00,12.99,3.5,9.49,Popular,High profit,Star
+Classic Cheeseburger,510.00,12.99,3.5,9.49,Popular,High profit,Star
+Classic Cheeseburger,540.00,12.99,3.5,9.49,Popular,High profit,Star
+Classic Cheeseburger,580.00,12.99,3.5,9.49,Popular,High profit,Star
+Classic Cheeseburger,610.00,12.99,3.5,9.49,Popular,High profit,Star
+Classic Cheeseburger,595.00,12.99,3.5,9.49,Popular,High profit,Star
+Classic Cheeseburger,520.00,12.99,3.5,9.49,Popular,High profit,Star
+Classic Cheeseburger,490.00,12.99,3.5,9.49,Popular,High profit,Star
+Classic Cheeseburger,460.00,12.99,3.5,9.49,Popular,High profit,Star
+Classic Cheeseburger,530.00,12.99,3.5,9.49,Popular,High profit,Star
+Bacon Cheeseburger,380.00,14.99,4.2,10.79,Popular,High profit,Star
+Bacon Cheeseburger,360.00,14.99,4.2,10.79,Popular,High profit,Star
+Bacon Cheeseburger,395.00,14.99,4.2,10.79,Popular,High profit,Star
+Bacon Cheeseburger,410.00,14.99,4.2,10.79,Popular,High profit,Star
+Bacon Cheeseburger,430.00,14.99,4.2,10.79,Popular,High profit,Star
+Bacon Cheeseburger,460.00,14.99,4.2,10.79,Popular,High profit,Star
+Bacon Cheeseburger,485.00,14.99,4.2,10.79,Popular,High profit,Star
+Bacon Cheeseburger,470.00,14.99,4.2,10.79,Popular,High profit,Star
+Bacon Cheeseburger,420.00,14.99,4.2,10.79,Popular,High profit,Star
+Bacon Cheeseburger,400.00,14.99,4.2,10.79,Popular,High profit,Star
+Bacon Cheeseburger,385.00,14.99,4.2,10.79,Popular,High profit,Star
+Bacon Cheeseburger,440.00,14.99,4.2,10.79,Popular,High profit,Star
+Veggie Burger,125.00,11.99,3.8,8.19,Popular,High profit,Star
+Veggie Burger,130.00,11.99,3.8,8.19,Popular,High profit,Star
+Veggie Burger,145.00,11.99,3.8,8.19,Popular,High profit,Star
+Veggie Burger,160.00,11.99,3.8,8.19,Popular,High profit,Star
+Veggie Burger,175.00,11.99,3.8,8.19,Popular,High profit,Star
+Veggie Burger,190.00,11.99,3.8,8.19,Popular,High profit,Star
+Veggie Burger,205.00,11.99,3.8,8.19,Popular,High profit,Star
+Veggie Burger,195.00,11.99,3.8,8.19,Popular,High profit,Star
+Veggie Burger,170.00,11.99,3.8,8.19,Popular,High profit,Star
+Veggie Burger,155.00,11.99,3.8,8.19,Popular,High profit,Star
+Veggie Burger,140.00,11.99,3.8,8.19,Popular,High profit,Star
+Veggie Burger,165.00,11.99,3.8,8.19,Popular,High profit,Star
+Grilled Chicken Sandwich,340.00,13.99,3.9,10.09,Popular,High profit,Star
+Grilled Chicken Sandwich,320.00,13.99,3.9,10.09,Popular,High profit,Star
+Grilled Chicken Sandwich,355.00,13.99,3.9,10.09,Popular,High profit,Star
+Grilled Chicken Sandwich,370.00,13.99,3.9,10.09,Popular,High profit,Star
+Grilled Chicken Sandwich,390.00,13.99,3.9,10.09,Popular,High profit,Star
+Grilled Chicken Sandwich,410.00,13.99,3.9,10.09,Popular,High profit,Star
+Grilled Chicken Sandwich,425.00,13.99,3.9,10.09,Popular,High profit,Star
+Grilled Chicken Sandwich,415.00,13.99,3.9,10.09,Popular,High profit,Star
+Grilled Chicken Sandwich,380.00,13.99,3.9,10.09,Popular,High profit,Star
+Grilled Chicken Sandwich,365.00,13.99,3.9,10.09,Popular,High profit,Star
+Grilled Chicken Sandwich,345.00,13.99,3.9,10.09,Popular,High profit,Star
+Grilled Chicken Sandwich,385.00,13.99,3.9,10.09,Popular,High profit,Star
+BBQ Pulled Pork Sandwich,290.00,13.49,4.1,9.39,Popular,High profit,Star
+BBQ Pulled Pork Sandwich,275.00,13.49,4.1,9.39,Popular,High profit,Star
+BBQ Pulled Pork Sandwich,305.00,13.49,4.1,9.39,Popular,High profit,Star
+BBQ Pulled Pork Sandwich,320.00,13.49,4.1,9.39,Popular,High profit,Star
+BBQ Pulled Pork Sandwich,340.00,13.49,4.1,9.39,Popular,High profit,Star
+BBQ Pulled Pork Sandwich,360.00,13.49,4.1,9.39,Popular,High profit,Star
+BBQ Pulled Pork Sandwich,380.00,13.49,4.1,9.39,Popular,High profit,Star
+BBQ Pulled Pork Sandwich,370.00,13.49,4.1,9.39,Popular,High profit,Star
+BBQ Pulled Pork Sandwich,330.00,13.49,4.1,9.39,Popular,High profit,Star
+BBQ Pulled Pork Sandwich,315.00,13.49,4.1,9.39,Popular,High profit,Star
+BBQ Pulled Pork Sandwich,295.00,13.49,4.1,9.39,Popular,High profit,Star
+BBQ Pulled Pork Sandwich,335.00,13.49,4.1,9.39,Popular,High profit,Star
+Fish and Chips,220.00,15.99,5.2,10.79,Popular,High profit,Star
+Fish and Chips,205.00,15.99,5.2,10.79,Popular,High profit,Star
+Fish and Chips,230.00,15.99,5.2,10.79,Popular,High profit,Star
+Fish and Chips,245.00,15.99,5.2,10.79,Popular,High profit,Star
+Fish and Chips,260.00,15.99,5.2,10.79,Popular,High profit,Star
+Fish and Chips,275.00,15.99,5.2,10.79,Popular,High profit,Star
+Fish and Chips,290.00,15.99,5.2,10.79,Popular,High profit,Star
+Fish and Chips,280.00,15.99,5.2,10.79,Popular,High profit,Star
+Fish and Chips,250.00,15.99,5.2,10.79,Popular,High profit,Star
+Fish and Chips,235.00,15.99,5.2,10.79,Popular,High profit,Star
+Fish and Chips,215.00,15.99,5.2,10.79,Popular,High profit,Star
+Fish and Chips,255.00,15.99,5.2,10.79,Popular,High profit,Star
+Lobster Ravioli,45.00,24.99,9.5,15.49,Popular,High profit,Star
+Lobster Ravioli,42.00,24.99,9.5,15.49,Popular,High profit,Star
+Lobster Ravioli,48.00,24.99,9.5,15.49,Popular,High profit,Star
+Lobster Ravioli,50.00,24.99,9.5,15.49,Popular,High profit,Star
+Lobster Ravioli,52.00,24.99,9.5,15.49,Popular,High profit,Star
+Lobster Ravioli,55.00,24.99,9.5,15.49,Popular,High profit,Star
+Lobster Ravioli,58.00,24.99,9.5,15.49,Popular,High profit,Star
+Lobster Ravioli,56.00,24.99,9.5,15.49,Popular,High profit,Star
+Lobster Ravioli,49.00,24.99,9.5,15.49,Popular,High profit,Star
+Lobster Ravioli,47.00,24.99,9.5,15.49,Popular,High profit,Star
+Lobster Ravioli,44.00,24.99,9.5,15.49,Popular,High profit,Star
+Lobster Ravioli,51.00,24.99,9.5,15.49,Popular,High profit,Star
+Margherita Pizza,380.00,14.99,4.2,10.79,Popular,High profit,Star
+Margherita Pizza,365.00,14.99,4.2,10.79,Popular,High profit,Star
+Margherita Pizza,395.00,14.99,4.2,10.79,Popular,High profit,Star
+Margherita Pizza,410.00,14.99,4.2,10.79,Popular,High profit,Star
+Margherita Pizza,430.00,14.99,4.2,10.79,Popular,High profit,Star
+Margherita Pizza,450.00,14.99,4.2,10.79,Popular,High profit,Star
+Margherita Pizza,470.00,14.99,4.2,10.79,Popular,High profit,Star
+Margherita Pizza,460.00,14.99,4.2,10.79,Popular,High profit,Star
+Margherita Pizza,420.00,14.99,4.2,10.79,Popular,High profit,Star
+Margherita Pizza,405.00,14.99,4.2,10.79,Popular,High profit,Star
+Margherita Pizza,385.00,14.99,4.2,10.79,Popular,High profit,Star
+Margherita Pizza,425.00,14.99,4.2,10.79,Popular,High profit,Star
+Pepperoni Pizza,420.00,16.99,4.8,12.19,Popular,High profit,Star
+Pepperoni Pizza,400.00,16.99,4.8,12.19,Popular,High profit,Star
+Pepperoni Pizza,435.00,16.99,4.8,12.19,Popular,High profit,Star
+Pepperoni Pizza,450.00,16.99,4.8,12.19,Popular,High profit,Star
+Pepperoni Pizza,475.00,16.99,4.8,12.19,Popular,High profit,Star
+Pepperoni Pizza,500.00,16.99,4.8,12.19,Popular,High profit,Star
+Pepperoni Pizza,520.00,16.99,4.8,12.19,Popular,High profit,Star
+Pepperoni Pizza,510.00,16.99,4.8,12.19,Popular,High profit,Star
+Pepperoni Pizza,465.00,16.99,4.8,12.19,Popular,High profit,Star
+Pepperoni Pizza,445.00,16.99,4.8,12.19,Popular,High profit,Star
+Pepperoni Pizza,415.00,16.99,4.8,12.19,Popular,High profit,Star
+Pepperoni Pizza,470.00,16.99,4.8,12.19,Popular,High profit,Star
+Chicken Tenders,520.00,11.99,3.2,8.79,Popular,High profit,Star
+Chicken Tenders,495.00,11.99,3.2,8.79,Popular,High profit,Star
+Chicken Tenders,540.00,11.99,3.2,8.79,Popular,High profit,Star
+Chicken Tenders,560.00,11.99,3.2,8.79,Popular,High profit,Star
+Chicken Tenders,585.00,11.99,3.2,8.79,Popular,High profit,Star
+Chicken Tenders,610.00,11.99,3.2,8.79,Popular,High profit,Star
+Chicken Tenders,635.00,11.99,3.2,8.79,Popular,High profit,Star
+Chicken Tenders,620.00,11.99,3.2,8.79,Popular,High profit,Star
+Chicken Tenders,575.00,11.99,3.2,8.79,Popular,High profit,Star
+Chicken Tenders,555.00,11.99,3.2,8.79,Popular,High profit,Star
+Chicken Tenders,525.00,11.99,3.2,8.79,Popular,High profit,Star
+Chicken Tenders,590.00,11.99,3.2,8.79,Popular,High profit,Star
+Grilled Salmon,180.00,22.99,8.2,14.79,Popular,High profit,Star
+Grilled Salmon,170.00,22.99,8.2,14.79,Popular,High profit,Star
+Grilled Salmon,190.00,22.99,8.2,14.79,Popular,High profit,Star
+Grilled Salmon,200.00,22.99,8.2,14.79,Popular,High profit,Star
+Grilled Salmon,210.00,22.99,8.2,14.79,Popular,High profit,Star
+Grilled Salmon,225.00,22.99,8.2,14.79,Popular,High profit,Star
+Grilled Salmon,240.00,22.99,8.2,14.79,Popular,High profit,Star
+Grilled Salmon,230.00,22.99,8.2,14.79,Popular,High profit,Star
+Grilled Salmon,205.00,22.99,8.2,14.79,Popular,High profit,Star
+Grilled Salmon,195.00,22.99,8.2,14.79,Popular,High profit,Star
+Grilled Salmon,175.00,22.99,8.2,14.79,Popular,High profit,Star
+Grilled Salmon,215.00,22.99,8.2,14.79,Popular,High profit,Star
+New York Strip Steak,95.00,28.99,11.5,17.49,Popular,High profit,Star
+New York Strip Steak,88.00,28.99,11.5,17.49,Popular,High profit,Star
+New York Strip Steak,100.00,28.99,11.5,17.49,Popular,High profit,Star
+New York Strip Steak,105.00,28.99,11.5,17.49,Popular,High profit,Star
+New York Strip Steak,110.00,28.99,11.5,17.49,Popular,High profit,Star
+New York Strip Steak,115.00,28.99,11.5,17.49,Popular,High profit,Star
+New York Strip Steak,120.00,28.99,11.5,17.49,Popular,High profit,Star
+New York Strip Steak,118.00,28.99,11.5,17.49,Popular,High profit,Star
+New York Strip Steak,108.00,28.99,11.5,17.49,Popular,High profit,Star
+New York Strip Steak,102.00,28.99,11.5,17.49,Popular,High profit,Star
+New York Strip Steak,92.00,28.99,11.5,17.49,Popular,High profit,Star
+New York Strip Steak,112.00,28.99,11.5,17.49,Popular,High profit,Star
+Spaghetti Carbonara,310.00,16.99,4.5,12.49,Popular,High profit,Star
+Spaghetti Carbonara,295.00,16.99,4.5,12.49,Popular,High profit,Star
+Spaghetti Carbonara,325.00,16.99,4.5,12.49,Popular,High profit,Star
+Spaghetti Carbonara,340.00,16.99,4.5,12.49,Popular,High profit,Star
+Spaghetti Carbonara,355.00,16.99,4.5,12.49,Popular,High profit,Star
+Spaghetti Carbonara,370.00,16.99,4.5,12.49,Popular,High profit,Star
+Spaghetti Carbonara,385.00,16.99,4.5,12.49,Popular,High profit,Star
+Spaghetti Carbonara,375.00,16.99,4.5,12.49,Popular,High profit,Star
+Spaghetti Carbonara,345.00,16.99,4.5,12.49,Popular,High profit,Star
+Spaghetti Carbonara,330.00,16.99,4.5,12.49,Popular,High profit,Star
+Spaghetti Carbonara,305.00,16.99,4.5,12.49,Popular,High profit,Star
+Spaghetti Carbonara,350.00,16.99,4.5,12.49,Popular,High profit,Star
+Shrimp Scampi,165.00,19.99,7.8,12.19,Popular,High profit,Star
+Shrimp Scampi,155.00,19.99,7.8,12.19,Popular,High profit,Star
+Shrimp Scampi,175.00,19.99,7.8,12.19,Popular,High profit,Star
+Shrimp Scampi,185.00,19.99,7.8,12.19,Popular,High profit,Star
+Shrimp Scampi,195.00,19.99,7.8,12.19,Popular,High profit,Star
+Shrimp Scampi,210.00,19.99,7.8,12.19,Popular,High profit,Star
+Shrimp Scampi,225.00,19.99,7.8,12.19,Popular,High profit,Star
+Shrimp Scampi,215.00,19.99,7.8,12.19,Popular,High profit,Star
+Shrimp Scampi,190.00,19.99,7.8,12.19,Popular,High profit,Star
+Shrimp Scampi,180.00,19.99,7.8,12.19,Popular,High profit,Star
+Shrimp Scampi,160.00,19.99,7.8,12.19,Popular,High profit,Star
+Shrimp Scampi,200.00,19.99,7.8,12.19,Popular,High profit,Star
+Caesar Salad,320.00,8.99,2.1,6.89,Popular,High profit,Star
+Caesar Salad,305.00,8.99,2.1,6.89,Popular,High profit,Star
+Caesar Salad,335.00,8.99,2.1,6.89,Popular,High profit,Star
+Caesar Salad,350.00,8.99,2.1,6.89,Popular,High profit,Star
+Caesar Salad,365.00,8.99,2.1,6.89,Popular,High profit,Star
+Caesar Salad,380.00,8.99,2.1,6.89,Popular,High profit,Star
+Caesar Salad,395.00,8.99,2.1,6.89,Popular,High profit,Star
+Caesar Salad,385.00,8.99,2.1,6.89,Popular,High profit,Star
+Caesar Salad,355.00,8.99,2.1,6.89,Popular,High profit,Star
+Caesar Salad,340.00,8.99,2.1,6.89,Popular,High profit,Star
+Caesar Salad,315.00,8.99,2.1,6.89,Popular,High profit,Star
+Caesar Salad,360.00,8.99,2.1,6.89,Popular,High profit,Star
+Buffalo Wings,290.00,10.99,3.8,7.19,Popular,High profit,Star
+Buffalo Wings,275.00,10.99,3.8,7.19,Popular,High profit,Star
+Buffalo Wings,305.00,10.99,3.8,7.19,Popular,High profit,Star
+Buffalo Wings,320.00,10.99,3.8,7.19,Popular,High profit,Star
+Buffalo Wings,340.00,10.99,3.8,7.19,Popular,High profit,Star
+Buffalo Wings,360.00,10.99,3.8,7.19,Popular,High profit,Star
+Buffalo Wings,380.00,10.99,3.8,7.19,Popular,High profit,Star
+Buffalo Wings,370.00,10.99,3.8,7.19,Popular,High profit,Star
+Buffalo Wings,330.00,10.99,3.8,7.19,Popular,High profit,Star
+Buffalo Wings,315.00,10.99,3.8,7.19,Popular,High profit,Star
+Buffalo Wings,285.00,10.99,3.8,7.19,Popular,High profit,Star
+Buffalo Wings,345.00,10.99,3.8,7.19,Popular,High profit,Star
+Mozzarella Sticks,410.00,7.99,2.4,5.59,Popular,High profit,Star
+Mozzarella Sticks,390.00,7.99,2.4,5.59,Popular,High profit,Star
+Mozzarella Sticks,425.00,7.99,2.4,5.59,Popular,High profit,Star
+Mozzarella Sticks,445.00,7.99,2.4,5.59,Popular,High profit,Star
+Mozzarella Sticks,465.00,7.99,2.4,5.59,Popular,High profit,Star
+Mozzarella Sticks,490.00,7.99,2.4,5.59,Popular,High profit,Star
+Mozzarella Sticks,510.00,7.99,2.4,5.59,Popular,High profit,Star
+Mozzarella Sticks,500.00,7.99,2.4,5.59,Popular,High profit,Star
+Mozzarella Sticks,460.00,7.99,2.4,5.59,Popular,High profit,Star
+Mozzarella Sticks,440.00,7.99,2.4,5.59,Popular,High profit,Star
+Mozzarella Sticks,405.00,7.99,2.4,5.59,Popular,High profit,Star
+Mozzarella Sticks,470.00,7.99,2.4,5.59,Popular,High profit,Star
+Loaded Nachos,265.00,9.99,3.2,6.79,Popular,High profit,Star
+Loaded Nachos,250.00,9.99,3.2,6.79,Popular,High profit,Star
+Loaded Nachos,280.00,9.99,3.2,6.79,Popular,High profit,Star
+Loaded Nachos,295.00,9.99,3.2,6.79,Popular,High profit,Star
+Loaded Nachos,310.00,9.99,3.2,6.79,Popular,High profit,Star
+Loaded Nachos,330.00,9.99,3.2,6.79,Popular,High profit,Star
+Loaded Nachos,345.00,9.99,3.2,6.79,Popular,High profit,Star
+Loaded Nachos,335.00,9.99,3.2,6.79,Popular,High profit,Star
+Loaded Nachos,305.00,9.99,3.2,6.79,Popular,High profit,Star
+Loaded Nachos,290.00,9.99,3.2,6.79,Popular,High profit,Star
+Loaded Nachos,260.00,9.99,3.2,6.79,Popular,High profit,Star
+Loaded Nachos,315.00,9.99,3.2,6.79,Popular,High profit,Star
+Spinach Artichoke Dip,195.00,8.49,2.8,5.69,Popular,High profit,Star
+Spinach Artichoke Dip,185.00,8.49,2.8,5.69,Popular,High profit,Star
+Spinach Artichoke Dip,205.00,8.49,2.8,5.69,Popular,High profit,Star
+Spinach Artichoke Dip,215.00,8.49,2.8,5.69,Popular,High profit,Star
+Spinach Artichoke Dip,225.00,8.49,2.8,5.69,Popular,High profit,Star
+Spinach Artichoke Dip,240.00,8.49,2.8,5.69,Popular,High profit,Star
+Spinach Artichoke Dip,255.00,8.49,2.8,5.69,Popular,High profit,Star
+Spinach Artichoke Dip,245.00,8.49,2.8,5.69,Popular,High profit,Star
+Spinach Artichoke Dip,220.00,8.49,2.8,5.69,Popular,High profit,Star
+Spinach Artichoke Dip,210.00,8.49,2.8,5.69,Popular,High profit,Star
+Spinach Artichoke Dip,190.00,8.49,2.8,5.69,Popular,High profit,Star
+Spinach Artichoke Dip,230.00,8.49,2.8,5.69,Popular,High profit,Star
+Calamari,140.00,11.99,4.5,7.49,Popular,High profit,Star
+Calamari,130.00,11.99,4.5,7.49,Popular,High profit,Star
+Calamari,150.00,11.99,4.5,7.49,Popular,High profit,Star
+Calamari,160.00,11.99,4.5,7.49,Popular,High profit,Star
+Calamari,170.00,11.99,4.5,7.49,Popular,High profit,Star
+Calamari,180.00,11.99,4.5,7.49,Popular,High profit,Star
+Calamari,190.00,11.99,4.5,7.49,Popular,High profit,Star
+Calamari,185.00,11.99,4.5,7.49,Popular,High profit,Star
+Calamari,165.00,11.99,4.5,7.49,Popular,High profit,Star
+Calamari,155.00,11.99,4.5,7.49,Popular,High profit,Star
+Calamari,135.00,11.99,4.5,7.49,Popular,High profit,Star
+Calamari,175.00,11.99,4.5,7.49,Popular,High profit,Star
+French Fries,580.00,4.99,1.2,3.79,Popular,High profit,Star
+French Fries,560.00,4.99,1.2,3.79,Popular,High profit,Star
+French Fries,600.00,4.99,1.2,3.79,Popular,High profit,Star
+French Fries,620.00,4.99,1.2,3.79,Popular,High profit,Star
+French Fries,650.00,4.99,1.2,3.79,Popular,High profit,Star
+French Fries,680.00,4.99,1.2,3.79,Popular,High profit,Star
+French Fries,710.00,4.99,1.2,3.79,Popular,High profit,Star
+French Fries,695.00,4.99,1.2,3.79,Popular,High profit,Star
+French Fries,640.00,4.99,1.2,3.79,Popular,High profit,Star
+French Fries,615.00,4.99,1.2,3.79,Popular,High profit,Star
+French Fries,575.00,4.99,1.2,3.79,Popular,High profit,Star
+French Fries,655.00,4.99,1.2,3.79,Popular,High profit,Star
+Truffle Fries,410.00,6.99,1.9,5.09,Popular,High profit,Star
+Truffle Fries,390.00,6.99,1.9,5.09,Popular,High profit,Star
+Truffle Fries,425.00,6.99,1.9,5.09,Popular,High profit,Star
+Truffle Fries,445.00,6.99,1.9,5.09,Popular,High profit,Star
+Truffle Fries,465.00,6.99,1.9,5.09,Popular,High profit,Star
+Truffle Fries,490.00,6.99,1.9,5.09,Popular,High profit,Star
+Truffle Fries,510.00,6.99,1.9,5.09,Popular,High profit,Star
+Truffle Fries,500.00,6.99,1.9,5.09,Popular,High profit,Star
+Truffle Fries,460.00,6.99,1.9,5.09,Popular,High profit,Star
+Truffle Fries,440.00,6.99,1.9,5.09,Popular,High profit,Star
+Truffle Fries,405.00,6.99,1.9,5.09,Popular,High profit,Star
+Truffle Fries,475.00,6.99,1.9,5.09,Popular,High profit,Star
+Onion Rings,350.00,5.99,1.6,4.39,Popular,High profit,Star
+Onion Rings,335.00,5.99,1.6,4.39,Popular,High profit,Star
+Onion Rings,365.00,5.99,1.6,4.39,Popular,High profit,Star
+Onion Rings,380.00,5.99,1.6,4.39,Popular,High profit,Star
+Onion Rings,400.00,5.99,1.6,4.39,Popular,High profit,Star
+Onion Rings,420.00,5.99,1.6,4.39,Popular,High profit,Star
+Onion Rings,440.00,5.99,1.6,4.39,Popular,High profit,Star
+Onion Rings,430.00,5.99,1.6,4.39,Popular,High profit,Star
+Onion Rings,395.00,5.99,1.6,4.39,Popular,High profit,Star
+Onion Rings,375.00,5.99,1.6,4.39,Popular,High profit,Star
+Onion Rings,345.00,5.99,1.6,4.39,Popular,High profit,Star
+Onion Rings,405.00,5.99,1.6,4.39,Popular,High profit,Star
+Coleslaw,240.00,3.99,0.95,3.04,Popular,High profit,Star
+Coleslaw,230.00,3.99,0.95,3.04,Popular,High profit,Star
+Coleslaw,250.00,3.99,0.95,3.04,Popular,High profit,Star
+Coleslaw,260.00,3.99,0.95,3.04,Popular,High profit,Star
+Coleslaw,275.00,3.99,0.95,3.04,Popular,High profit,Star
+Coleslaw,290.00,3.99,0.95,3.04,Popular,High profit,Star
+Coleslaw,305.00,3.99,0.95,3.04,Popular,High profit,Star
+Coleslaw,295.00,3.99,0.95,3.04,Popular,High profit,Star
+Coleslaw,270.00,3.99,0.95,3.04,Popular,High profit,Star
+Coleslaw,255.00,3.99,0.95,3.04,Popular,High profit,Star
+Coleslaw,235.00,3.99,0.95,3.04,Popular,High profit,Star
+Coleslaw,280.00,3.99,0.95,3.04,Popular,High profit,Star
+Mac and Cheese,390.00,6.49,2.1,4.39,Popular,High profit,Star
+Mac and Cheese,370.00,6.49,2.1,4.39,Popular,High profit,Star
+Mac and Cheese,405.00,6.49,2.1,4.39,Popular,High profit,Star
+Mac and Cheese,425.00,6.49,2.1,4.39,Popular,High profit,Star
+Mac and Cheese,445.00,6.49,2.1,4.39,Popular,High profit,Star
+Mac and Cheese,470.00,6.49,2.1,4.39,Popular,High profit,Star
+Mac and Cheese,490.00,6.49,2.1,4.39,Popular,High profit,Star
+Mac and Cheese,480.00,6.49,2.1,4.39,Popular,High profit,Star
+Mac and Cheese,440.00,6.49,2.1,4.39,Popular,High profit,Star
+Mac and Cheese,420.00,6.49,2.1,4.39,Popular,High profit,Star
+Mac and Cheese,385.00,6.49,2.1,4.39,Popular,High profit,Star
+Mac and Cheese,455.00,6.49,2.1,4.39,Popular,High profit,Star
+Chocolate Lava Cake,210.00,7.99,1.8,6.19,Popular,High profit,Star
+Chocolate Lava Cake,200.00,7.99,1.8,6.19,Popular,High profit,Star
+Chocolate Lava Cake,220.00,7.99,1.8,6.19,Popular,High profit,Star
+Chocolate Lava Cake,230.00,7.99,1.8,6.19,Popular,High profit,Star
+Chocolate Lava Cake,245.00,7.99,1.8,6.19,Popular,High profit,Star
+Chocolate Lava Cake,260.00,7.99,1.8,6.19,Popular,High profit,Star
+Chocolate Lava Cake,275.00,7.99,1.8,6.19,Popular,High profit,Star
+Chocolate Lava Cake,265.00,7.99,1.8,6.19,Popular,High profit,Star
+Chocolate Lava Cake,240.00,7.99,1.8,6.19,Popular,High profit,Star
+Chocolate Lava Cake,225.00,7.99,1.8,6.19,Popular,High profit,Star
+Chocolate Lava Cake,205.00,7.99,1.8,6.19,Popular,High profit,Star
+Chocolate Lava Cake,250.00,7.99,1.8,6.19,Popular,High profit,Star
+New York Cheesecake,185.00,8.49,2.2,6.29,Popular,High profit,Star
+New York Cheesecake,175.00,8.49,2.2,6.29,Popular,High profit,Star
+New York Cheesecake,195.00,8.49,2.2,6.29,Popular,High profit,Star
+New York Cheesecake,205.00,8.49,2.2,6.29,Popular,High profit,Star
+New York Cheesecake,215.00,8.49,2.2,6.29,Popular,High profit,Star
+New York Cheesecake,230.00,8.49,2.2,6.29,Popular,High profit,Star
+New York Cheesecake,245.00,8.49,2.2,6.29,Popular,High profit,Star
+New York Cheesecake,235.00,8.49,2.2,6.29,Popular,High profit,Star
+New York Cheesecake,210.00,8.49,2.2,6.29,Popular,High profit,Star
+New York Cheesecake,200.00,8.49,2.2,6.29,Popular,High profit,Star
+New York Cheesecake,180.00,8.49,2.2,6.29,Popular,High profit,Star
+New York Cheesecake,220.00,8.49,2.2,6.29,Popular,High profit,Star
+Tiramisu,95.00,8.99,2.5,6.49,Popular,High profit,Star
+Tiramisu,88.00,8.99,2.5,6.49,Popular,High profit,Star
+Tiramisu,100.00,8.99,2.5,6.49,Popular,High profit,Star
+Tiramisu,105.00,8.99,2.5,6.49,Popular,High profit,Star
+Tiramisu,112.00,8.99,2.5,6.49,Popular,High profit,Star
+Tiramisu,120.00,8.99,2.5,6.49,Popular,High profit,Star
+Tiramisu,128.00,8.99,2.5,6.49,Popular,High profit,Star
+Tiramisu,125.00,8.99,2.5,6.49,Popular,High profit,Star
+Tiramisu,110.00,8.99,2.5,6.49,Popular,High profit,Star
+Tiramisu,103.00,8.99,2.5,6.49,Popular,High profit,Star
